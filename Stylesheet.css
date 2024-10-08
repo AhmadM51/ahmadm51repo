@@ -72,6 +72,9 @@ footer{
     background-color: beige;
     color: black;
 }
+.namebold{
+    font-weight: bold;
+}
 .buttonLoc{
     position: absolute;
     top: 0px;
