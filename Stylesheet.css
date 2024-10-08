@@ -81,6 +81,7 @@ footer{
 .apear{
     display: block;
     margin: 10px;
+    text-align: center;
 }
 .dissapear{
     display: none;
