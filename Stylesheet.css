@@ -78,3 +78,10 @@ footer{
     right: 6px;
     margin: 10px; 
 }
+.apear{
+    display: block;
+    margin: 10px;
+}
+.dissapear{
+    display: none;
+}
